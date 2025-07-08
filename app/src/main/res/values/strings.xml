@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">ATM</string>
+    <string name="user_name">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="password_rule">Must be 8 character</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="age">Age:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="card_number">Card Number:</string>
+    <string name="cvv2">CVV2:</string>
+    <string name="expiration_date">Expiration Date:</string>
+    <string name="mm_dd">YY/MM</string>
+    <string name="current_balance">Current Balance:</string>
+    <string name="account_number">Account Number:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="error_unique_password">Password is not match</string>
+    <string name="error_invalid_password">Please enter valid password</string>
+    <string name="error_invalid_user_name">Please enter valid user name</string>
+    <string name="user_signup_success">Signed up new user successfully!</string>
+    <string name="message_successful">Successful!</string>
+    <string name="type">Type</string>
+    <string name="transaction_amount">Transaction Amount</string>
+    <string name="transaction">Transaction</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log out</string>
+    <string name="balance">Balance:</string>
+    <string name="origin_account_number">Origin Account Number:</string>
+    <string name="destination_card_number">Destination Card Number:</string>
+    <string name="add_transaction">Do Transaction</string>
+    <string name="ctc">CTC</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="transaction_type">Choose transaction type</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_enough_balance">Not enough Balance!</string>
+    <string name="delete_title">Delete</string>
+    <string name="delete_warning">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add">Add\n</string>
+    <string name="acc_num">Acc num:</string>
+    <string name="card_num">Card num:</string>
+    <string name="transaction_data">Problem in transaction data</string>
+    <string name="transaction_date">Transaction Date:</string>
+    <string name="preview">Preview</string>
+    <string name="error_invalid_age">Please enter valid age"</string>
+    <string name="error_invalid_phone">Please enter valid phone number"</string>
+    <string name="error_invalid_account_num">Please enter valid account number"</string>
+    <string name="error_invalid_card_num">Please enter valid card number"</string>
+    <string name="error_invalid_cvv2">Please enter valid cvv2"</string>
+    <string name="error_invalid_expiration_date">Please enter valid expiration date"</string>
+    <string name="error_invalid_balance">Please enter valid balance"</string>
+    <string name="error_invalid_amount">Please enter valid amount"</string>
+    <string name="error_unique_account_num">Account number is not match</string>
+    <string name="error_unique_cvv2">Cvv2 is not match</string>
+    <string name="error_unique_expiration_date">Expiration date is not match</string>
+    <string name="successful_saving_file">Saved</string>
+    <string name="error_saving_file">File was not saved</string>
+    <string name="share_transaction_txt">Share transaction via</string>
+    <string name="invalid_input_error">Invalid or incomplete input!</string>
+    <string name="db_general_error">Failed to finish database operation successfully!</string>
+    <string name="network_connection_error">Cannot access internet!</string>
+    <string name="network_general_error">Failed to finish server operation successfully!</string>
+    <string name="network_json_error">Failed to interpret the data to/from server!</string>
+    <string name="error_invalid_login">Invalid username or password!</string>
+
+    <string-array name="arrays_type">
+        <item>CTC</item>
+        <item>Withdraw</item>
+    </string-array>
+
+</resources>
